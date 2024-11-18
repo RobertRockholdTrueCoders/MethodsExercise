@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bzMBF62z10AGyuQNOsp30G9dUvAbU1gdcYOooNyTiTB8SvGJlrL9laCAlPTE9Bxzd++BMcZGC9A2LN6LWzWXUw==",
+  "dgSpecHash": "V8O9Iagax0pQlBzDSB2Y5ly/Y59AKUu7D0z2QTlC2TAKimhQyPmhTu8bLTSJPDyyyIf+FYFsbfQQIecrjM5bcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bronc\\Desktop\\Repos\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\bronc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
   "logs": []
 }

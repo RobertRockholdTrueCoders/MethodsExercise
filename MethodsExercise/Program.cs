@@ -17,7 +17,7 @@
         }
 
         {
-            static Void MadLibInteraction();
+            static void MadLibInteraction();
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine($"{name}, where are you from?");
