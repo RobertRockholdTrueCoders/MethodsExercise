@@ -1,4 +1,3 @@
-C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.csproj.AssemblyReference.cache
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfoInputs.cache
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\re
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.pdb
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.genruntimeconfig.cache
 C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\ref\MethodsExercise.dll
+C:\Users\bronc\Desktop\Repos\MethodsExercise\MethodsExercise\obj\Debug\net6.0\MethodsExercise.sourcelink.json
